@@ -1,2 +1,4 @@
 node_modules/
 test_video.mp4
+token.json
+client_secret.json
